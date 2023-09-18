@@ -1,5 +1,7 @@
-import Hero from "./Hero"
+import Hero from "./Hero";
+import Custombtn from "./Custombtn";
 
 export{
-    Hero
+    Hero,
+    Custombtn
 }
